@@ -1,0 +1,2 @@
+# Hospital-Management
+Due to the current situation, there is a growing need of hospital. Many new hospitals are being made to help the people suffering from covid. The upcoming hospitals don’t have a database to access doctor’s, patient’s details. Even hospitals in rural or village areas don’t have a proper management system. So, this code can act as a base to their database and can be used by hospitals in managing their data. This code provides appointment for PCR test and blood donation camp.
